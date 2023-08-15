@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit
+    cacheResult="false">
+    <testsuites>
+        <testsuite name="Rover">
+            <directory>tests</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
